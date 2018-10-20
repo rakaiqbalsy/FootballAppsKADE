@@ -1,4 +1,4 @@
-package com.dicoding.kotlin.rakaiqbalsy.footballapps_kade
+ package com.dicoding.kotlin.rakaiqbalsy.footballapps_kade
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
